@@ -3,7 +3,7 @@
 Meus repositórios estão listados em cartegorias abaixo:
 
 - Repositórios de projetos feitos para exercitar conhecimentos
-  - [API CRUD feita em TypesCript com prisma ORM, MySQL e vitest ](https://github.com/lucas-txt/first-node-crud)
+  - [API CRUD feita em TypeScript com prisma ORM, MySQL e vitest ](https://github.com/lucas-txt/first-node-crud)
   - [Biblioteca de web components feita com JavaScript vanila](https://github.com/lucas-txt/web-components-lib)
   - [Site de academia ficticia](https://github.com/lucas-txt/fake-academy)
   - [Calculadora feita em HTML&CSS e JavaScript](https://github.com/lucas-txt/calcuculadora-front-end)
