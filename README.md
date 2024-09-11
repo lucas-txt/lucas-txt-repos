@@ -13,6 +13,7 @@ Projetos birutas de bacana. 🤯
 Projetos feitos para exercitar determinados conhecimentos. 🏋️‍♂️  
   - [API CRUD feita em TypeScript utilizando Prisma ORM, MySQL e Vitest](https://github.com/lucas-txt/first-node-crud)
   - [Site de restaurante fictício feito em HTML com compilador SCSS e JavaScript](https://github.com/lucas-txt/restaurante-logo-ali)
+  - [Webcomponent feito em javaScript vanilla](https://github.com/lucas-txt/star-rater-web-component)
   - [Site de academia fictícia feito em HTML & CSS e JavaScript](https://github.com/lucas-txt/fake-academy)
   - [Calculadora feita em HTML & CSS e JavaScript](https://github.com/lucas-txt/calcuculadora-front-end)
   - [Portfólio antigo feito em HTML & CSS e JavaScript](https://github.com/lucas-txt/old-portifolio)
