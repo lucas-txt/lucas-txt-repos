@@ -8,7 +8,6 @@ Projetos úteis feitos por interesse próprio. 👨‍💻
 
 Projetos birutas de bacana. 🤯
   - [Uma roda gigante feita em HTML & CSS](https://github.com/lucas-txt/roda-gigante)
-  - [Caixa eletrônico feito em HTML & CSS e JavaScript](https://github.com/lucas-txt/web-caixa-eletronico)
 
 Projetos feitos para exercitar determinados conhecimentos. 🏋️‍♂️  
   - [API CRUD feita em TypeScript utilizando Prisma ORM, MySQL e Vitest](https://github.com/lucas-txt/first-node-crud)
