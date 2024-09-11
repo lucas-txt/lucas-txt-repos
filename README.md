@@ -17,7 +17,7 @@ Projetos feitos para exercitar determinaodos conhecimentos. 🏋️‍♂️
   - [Calculadora feita em HTML&CSS e JavaScript](https://github.com/lucas-txt/calcuculadora-front-end)
   - [Portifólio antigo feito em HTML&CSS e JavaScript](https://github.com/lucas-txt/old-portifolio)
   - [widget de setas para esconder frases, feito em HTML&CSS e JavaScript](https://github.com/lucas-txt/web-arrow-widget)
-  - [Conjunto de features UI comunmente usadas em aplicativos de banco, feito em HTML com compilador SCSS e JavaScript](https://github.com/lucas-txt/web-bank-simulator)
+  - [Conjunto de features UI usadas em aplicativos de banco, feito em HTML com compilador SCSS e JavaScript](https://github.com/lucas-txt/web-bank-simulator)
   - [Widget que muda todas as cores do site, feioto em HTML com compilador SCSS e JavaScript](https://github.com/lucas-txt/web-color-menu)
   - [GameBoy feito com HTML com compilador SCSS e JavaScript](https://github.com/lucas-txt/web-gameboy)
   - [Header generico de pagina web feito em HTML com compilador SCSS e JavaScript](https://github.com/lucas-txt/generic-web-header)
