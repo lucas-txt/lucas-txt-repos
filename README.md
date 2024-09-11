@@ -1,7 +1,5 @@
 # ⭐ Meus repositórios ✨
 
-Meus repositórios estão listados em cartegorias abaixo:
-
 Projetos uteis feitos por interesse próprio. 👨‍💻
   - [Biblioteca de web components feita com JavaScript vanila](https://github.com/lucas-txt/web-components-lib)
   - [Aplicativo CLI para pesquisar arquivos feito em C#](https://github.com/lucas-txt/file-searcher)
