@@ -1,5 +1,3 @@
-Aqui está o texto corrigido:
-
 # ⭐ Meus repositórios ✨
 
 Projetos úteis feitos por interesse próprio. 👨‍💻
